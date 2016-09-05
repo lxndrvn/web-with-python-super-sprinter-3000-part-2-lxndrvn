@@ -1,2 +1,3 @@
-# sprint-reporter-part2
+# Sprint Reporter
+
 Web with Python: Sprint reporter app (Part 2) Assignment
